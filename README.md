@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Will be updating my profile soon.. 😅 thanks for looking 🙏🏾.
+
 <!--
 **leba0495/leba0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
