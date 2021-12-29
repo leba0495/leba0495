@@ -1,10 +1,12 @@
 ## Hi there 👋. I'm Luis Brito.
 
-### Get To Know me:
-- 👨🏽‍🎓 I'm currently a Computer Science student in NYC
-- 🔭 I’m currently working on deeping my knowledge of Web Development and 📱 Mobile Development with iOS
-- 🌱 I’m currently trying to define which path of Software Engineering I want to pursue
- 
+### Get to know me:
+- 👨🏽‍🎓 I'm a Computer Science student at CUNY John Jay College
+- 👨‍💻 I’m currently working on strengthening my knowledge of Software Engineering in the areas of Web Development, Mobile Development and Cloud Engineering
+- ☁️ I'm studying to obtain the AWS Cloud Practitioner certification
+- 🎖 I served in the U.S. Coast Guard before returning to school and pursue a career in Tech
+
+I look forward to contribute to the Tech industry in as many ways as possible throughout my career.
 <!--
 **leba0495/leba0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
