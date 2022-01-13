@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Luis Brito.
+## Hi there 👋, I'm Luis Brito Arias.
 
 ### Get to know me:
 - 👨🏽‍🎓 I'm a Computer Science student at CUNY John Jay College
